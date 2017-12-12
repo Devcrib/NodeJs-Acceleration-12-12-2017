@@ -2,7 +2,7 @@
 
 Design Patterns
 
-##Links to repls.
+## Links to repls.
 
 1) [Composite Pattern](https://repl.it/@king_tomiiide/Composite-Pattern)
 
