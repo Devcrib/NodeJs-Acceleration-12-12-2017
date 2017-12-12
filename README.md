@@ -1,14 +1,17 @@
 # NodeJs-Acceleration-12-12-2017
+
 Design Patterns
 
-Links to repls.
+##Links to repls.
 
-Composite Pattern - https://repl.it/@king_tomiiide/Composite-Pattern
+1) [Composite Pattern](https://repl.it/@king_tomiiide/Composite-Pattern)
 
-FlyWeight Pattern - https://repl.it/@king_tomiiide/Fly-Weight-Pattern
+2) [FlyWeight Pattern](https://repl.it/@king_tomiiide/Fly-Weight-Pattern)
 
-Factory Pattern - https://repl.it/@king_tomiiide/Factory-Pattern
+3) [Factory Pattern](https://repl.it/@king_tomiiide/Factory-Pattern)
 
-Decorator Pattern - https://repl.it/@king_tomiiide/Decorator
+4) [Decorator Pattern](https://repl.it/@king_tomiiide/Decorator)
 
-Chained Responsibility Pattern - https://repl.it/@Oluwakemi/Chained-Responsibility-Design-Pattern-Implemented
+5) [Chained Responsibility Pattern](https://repl.it/@Oluwakemi/Chained-Responsibility-Design-Pattern-Implemented)
+
+6) [Singleton Pattern](https://repl.it/@king_tomiiide/singleton-pattern-js)
